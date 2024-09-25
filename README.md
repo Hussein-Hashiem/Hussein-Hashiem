@@ -16,31 +16,27 @@
   <br></br>
   <br></br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
-<p align="left">
-&emsp;
-  <a href="https://codeforces.com/profile/husshashiem" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-  &emsp;
-	<a href="https://leetcode.com/u/Hussein-Hashiem/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	
-</p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
 <p align="left">
   &emsp;
 	<a href="mailto:husshashiem@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-      &emsp;
+	  &emsp;
+	<a href="https://www.linkedin.com/in/hussein-hashiem-50b56b310/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    &emsp;
 	<a href="https://github.com/Hussein-Hashiem"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
       &emsp;
 	<a href="https://wa.me/+201018619320"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
     &emsp;
-	<a href="https://www.linkedin.com/in/hussein-hashiem-50b56b310/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    &emsp;
 	<a href="https://www.facebook.com/HusseinHashiem0"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
     &emsp;
 	<a href="https://www.instagram.com/husseinhashiem0/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+      &emsp;
+	<a href="https://codeforces.com/profile/husshashiem"><img img src="https://img.shields.io/badge/Codeforces-%23181717.svg?style=plastic&logo=codeforces&logoColor=white" alt="codeforces"/></a>
+		  &emsp;
+	<a href="https://leetcode.com/u/Hussein-Hashiem/"><img img src="https://img.shields.io/badge/leetcode-%23181717.svg?style=plastic&logo=leetcode&logoColor=white" alt="leetcode"/></a>
 </p>
 
 ## 🛠️ My Skills
