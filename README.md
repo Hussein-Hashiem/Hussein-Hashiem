@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://cdn0.iconfinder.com/data/icons/occupation-002/64/programmer-programming-occupation-avatar-512.png" width = 250px></picture>
+<picture> <img align="right" src="https://cdn0.iconfinder.com/data/icons/occupation-002/64/programmer-programming-occupation-avatar-512.png" width = 225px></picture>
 
 - :school: I am a `Student` at [Faculty of Computers & Informatics](https://www.svu.edu.eg/faculties/fci/en/home-page-en/) at [South Valley University](https://www.svu.edu.eg/ar/).
 - :technologist: I love using Software as a solution for every `Problem`.
