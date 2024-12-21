@@ -64,7 +64,7 @@
     <a href="https://www.instagram.com/husseinhashiem0/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
     </a>
-    <a href="https://codeforces.com/profile/husshashiem" target="_blank">
+    <a href="https://codeforces.com/profile/ABO_MAZEN" target="_blank">
         <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
     </a>
     <a href="https://leetcode.com/u/Hussein-Hashiem/" target="_blank">
