@@ -20,8 +20,11 @@
 
 ## 🚀 Technologies That I Know
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git" />
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" title="SQL Server"/>
 </div>
+
+
 
 <br>
 <div align="center">
